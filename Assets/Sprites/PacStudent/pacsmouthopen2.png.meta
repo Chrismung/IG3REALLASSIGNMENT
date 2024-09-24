@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4b110da60f1f13d44b74fc7f7706d109
+guid: 372895a4d1708574f9fdc6618ff66933
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3599583772307354084
-    second: pacstudenteat_0
+      213: 7712329260365020214
+    second: pacsmouthopen2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,12 +100,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: pacstudenteat_0
+      name: pacsmouthopen2_0
       rect:
         serializedVersion: 2
-        x: 3
+        x: 6
         y: 1
-        width: 29
+        width: 30
         height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c1e0c5861a5bb0ec0800000000000000
-      internalID: -3599583772307354084
+      spriteID: 63c78e2c992b70b60800000000000000
+      internalID: 7712329260365020214
       vertices: []
       indices: 
       edges: []
@@ -131,7 +131,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      pacstudenteat_0: -3599583772307354084
+      pacsmouthopen2_0: 7712329260365020214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
