@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: d484067c176296a4c848dfffb1309226
+guid: 8de1e9e4c5a931145a2fecb8a02b133e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5992057605333402944
-    second: tjoin_0
+      213: 3738771616476988383
+    second: outerwall2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -51,7 +51,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 40
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -100,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: tjoin_0
+      name: outerwall2_0
       rect:
         serializedVersion: 2
         x: 0
@@ -114,8 +114,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0cabc60fa5fe7dca0800000000000000
-      internalID: -5992057605333402944
+      spriteID: fd38c60f9f8c2e330800000000000000
+      internalID: 3738771616476988383
       vertices: []
       indices: 
       edges: []
@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      outerwall2_0: 3738771616476988383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
