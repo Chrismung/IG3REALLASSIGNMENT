@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class IntromusicBGmus : MonoBehaviour
 {
+    public float songlength = 1f;
     public AudioSource audioSource;
     public AudioClip Intromusic;
     public AudioClip bgMus;
-    public float duration = 1f;
     
     void BgMus()
     {
@@ -18,7 +18,7 @@ public class IntromusicBGmus : MonoBehaviour
     {
         audioSource.clip = Intromusic;
         audioSource.Play();
-        Invoke("BgMus", duration);
+        Invoke("BgMus", songlength);
     }
 
 }
