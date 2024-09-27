@@ -333,7 +333,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.88, y: -4.14, z: -10}
+  m_LocalPosition: {x: 4.01, y: -3.22, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -351,10 +351,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 744d2b3c2788e7449b31ae08cc58377e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  songlength: 1
   audioSource: {fileID: 519420034}
   Intromusic: {fileID: 8300000, guid: cd787afb29a1ff34e928e25ea028f7a7, type: 3}
   bgMus: {fileID: 8300000, guid: 6aac563aa5596a5419f81d0dfeca3a51, type: 3}
-  duration: 1
 --- !u!82 &519420034
 AudioSource:
   m_ObjectHideFlags: 0
