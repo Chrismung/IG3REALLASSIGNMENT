@@ -62,7 +62,6 @@ public class PacmanMovement : MonoBehaviour
         animator = GetComponent<Animator>(); //getting the animator's component
     }
 
-    
-    
-}
 
+
+}
